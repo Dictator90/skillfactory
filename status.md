@@ -13,3 +13,5 @@ git status
 ```
 
 ![](assets/img/git_status.png)
+
+[Назад в Главное меню](README.md)

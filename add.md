@@ -29,3 +29,5 @@ git add -i
 Запустить git add в *интерактивном режиме*
 
 ![](/assets/img/git_add_i.png)
+
+[Назад в Главное меню](README.md)
